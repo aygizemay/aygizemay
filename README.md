@@ -1,11 +1,15 @@
-# 💫 About Me:
+# 🌈 Explore My World:
  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
  
 
 
 I have previously developed video games in collaboration with teams. Currently, I am focused on improving my skills in the frontend domain. Additionally, I have a passion for playing video games and dancing! 💻💃🎮
 
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=aygizemay&icon=7&color=10)](https://visitcount.itsvg.in)
+
+<br>
 
 # 📱 Social Media:
 <a href="https://linkedin.com/in/aygizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aygizem" height="30" width="40" /></a>
