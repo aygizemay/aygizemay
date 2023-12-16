@@ -33,16 +33,10 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygizemay&show_icons=true&title_color=f78fb3&text_color=f8a5c2&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="aygizemay" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygizemay&show_icons=true&title_color=f78fb3&text_color=f8a5c2&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="aygizemay" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aygizemay&show_icons=true&title_color=f78fb3&text_color=f8a5c2&bg_color=000000&hide_border=true&locale=tr" alt="aygizemay" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aygizemay&show_icons=true&title_color=f78fb3&text_color=f8a5c2&bg_color=000000&hide_border=true&locale=en" alt="aygizemay" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygizemay&theme=highcontrast" alt="aygizemay" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygizemay&theme=highcontrast" alt="aygizemay" /></p>
 
 
