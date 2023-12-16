@@ -3,7 +3,8 @@
  
 
 
-I have previously developed video games in collaboration with teams. Currently, I am focused on improving my skills in the frontend domain. Additionally, I have a passion for playing video games and dancing! 
+I have previously developed video games in collaboration with teams. Currently, I am focused on improving my skills in the frontend domain. Additionally, I have a passion for playing video games and 
+dancing! 
 💻💃🎮
 
 <br>
