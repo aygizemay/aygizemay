@@ -1,17 +1,17 @@
 # 🌈 Explore My World:
- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
+
+<img src="https://github.com/aygizemay/aygizemay/assets/132147429/24dafd6c-05ff-4d50-9ad0-c24d330bb83d" alt="Image" width="400" align="right"/>
+
  
-
-
-I have previously developed video games in collaboration with teams. Currently, I am focused on improving my skills in the frontend domain. Additionally, I have a passion for playing video games and 
-dancing! 
-💻💃🎮
+After completing my high school education at Kadriye Moroğlu Anatolian High School, I enrolled in the Computer Technology department at Gelişim University. Throughout my education, I participated in development opportunities in leadership, cybersecurity, and software fields. I gained valuable experience in game development through team collaboration during the Google Game and App Academy bootcamp process, and we successfully made it to the top 25.Currently, I am working on frontend development and focusing on continuously improving my skills in the software and technology domain. In this regard, I strive to participate in events and activities that contribute to my progress in software and technology.Moreover, I have previously developed video games in collaboration with teams. Currently, my main focus is on enhancing my skills in the frontend domain. Additionally, I have a passion for playing video games and dancing! 💻💃🎮
 
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=aygizemay&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <br>
+
+
 
 # 📱 Social Media:
 <a href="https://linkedin.com/in/aygizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aygizem" height="30" width="40" /></a>
