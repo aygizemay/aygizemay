@@ -1,8 +1,8 @@
-# 🌈 Explore My World:
+#  Explore My World:
 
 <img src="https://github.com/aygizemay/aygizemay/assets/132147429/24dafd6c-05ff-4d50-9ad0-c24d330bb83d" alt="Image" width="400" align="right"/>
 
-My focus is on advancing my knowledge and capabilities in the field of technology.
+My focus is on enhancing my knowledge and skills in the field of technology
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=aygizemay&icon=7&color=10)](https://visitcount.itsvg.in)
