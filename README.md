@@ -7,7 +7,7 @@ My focus is on enhancing my knowledge and skills in the field of technology
 
 [![](https://visitcount.itsvg.in/api?id=aygizemay&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<br>
+<br><br><br><br>
 
 
 
