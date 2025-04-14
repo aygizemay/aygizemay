@@ -11,7 +11,7 @@ My focus is on enhancing my knowledge and skills in the field of technology
 
 
 
-# 📱 Social Media:
+<br><br><br><br><br><br><br><br># 📱 Social Media:
 <a href="https://linkedin.com/in/aygizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aygizem" height="30" width="40" /></a>
 <a href="https://instagram.com/giizem.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giizem.08" height="30" width="40" /></a>
 </p>
