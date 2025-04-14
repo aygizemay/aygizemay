@@ -11,7 +11,7 @@ My focus is on enhancing my knowledge and skills in the field of technology
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 # 📱 Social Media:
 <a href="https://linkedin.com/in/aygizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aygizem" height="30" width="40" /></a>
